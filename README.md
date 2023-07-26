@@ -1,10 +1,11 @@
-<img src="https://img.freepik.com/free-vector/data-technology-network-lines-background_1017-19687.jpg?w=1060&t=st=1690399343~exp=1690399943~hmac=60943ae4d047320f9655352a9ea426a09442d7ddb37137050ba16459acd5a283" alt="analysis" width="100%" height="200px" align="right">
 <h1 align="center">Hi 👋, I'm Binyam Atsbeha</h1>
-<h3 align="center"" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=bini56&label=Profile%20views&color=0e75b6&style=flat" alt="bini56" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<h3 align="center">a junior data analyst with a passion for learning and growth.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bini56&label=Profile%20views&color=0e75b6&style=flat" alt="bini56" /> </p>
+
 <p align="left"> <a href="https://github.com/Bini56?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=bini56" alt="bini56" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@binyam_atsbeha" target="blank"><img src="https://img.shields.io/twitter/follow/@binyam_atsbeha?logo=twitter&style=for-the-badge" alt="@binyam_atsbeha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/binyam_atsbeha" target="blank"><img src="https://img.shields.io/twitter/follow/binyam_atsbeha?logo=twitter&style=for-the-badge" alt="binyam_atsbeha" /></a> </p>
 
 - 🔭 I’m currently working on [food security project](https://github.com/Bini56/data_analysis_project_using_python)
 
@@ -20,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@binyam_atsbeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@binyam_atsbeha" height="30" width="40" /></a>
+<a href="https://twitter.com/binyam_atsbeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binyam_atsbeha" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/binyam.atsbeha.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/binyam.atsbeha.77" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/binyam_atsbeha/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/binyam_atsbeha/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/@biatsb5656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@biatsb5656" height="30" width="40" /></a>
+<a href="https://medium.com/biatsb5656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="biatsb5656" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
