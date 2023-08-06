@@ -2,10 +2,10 @@
 
 # I am Binyam Junior Data Analyst<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://twitter.com/jas_script" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jaskirat's Twitter" height="20" width="20" /></a>&nbsp;
+<a href="https://twitter.com/binyam_atsbeha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jaskirat's Twitter" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.instagram.com/binyam_atsbeha/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://www.facebook.com/binyam.atsbeha.77/"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 </p>
 
 
@@ -15,14 +15,14 @@
 <br>
 <h3> :💻: &nbsp;About Me </h3>
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
+- 😄 Pronouns: He
+- 🔭 junior data analyst looking
 - :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
+- 🌱 I’m currently learning: Software engineering on #ALX
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
+- 💜 Interests: Internet culture, web developing
 - ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
 <br/>
@@ -52,7 +52,7 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
+### [ Using Dating Profiles to Predict Occupation: ](https://github.com/Bini56/data_analysis_project_using_python)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
 
@@ -61,9 +61,9 @@ Linear regression modeling for housing price prediction in King County, WA, USA,
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [ Yelp ETL Project Analysis: ](https://github.com/Bini56/ETL-from-sample-dvd_rental-database-using-python)<br>
+This project is an Extract, Transform, Load (ETL) system for the DVD rental database. It extracts data from the DVD rental database, performs necessary transformations, and loads the transformed data into a target destination..<br>
+Libraries utilized: Pandas
 
 </p>
 
@@ -73,8 +73,8 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="https://twitter.com/binyam_atsbeha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.facebook.com/binyam.atsbeha.77/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="facebook" /></a>&nbsp;
 <a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
