@@ -1,6 +1,6 @@
 
 
-# Hello this is Bini Junior Data Analyst<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello this is Bini Junior Data Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/binyam_atsbeha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jaskirat's Twitter" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
