@@ -16,11 +16,11 @@
 <h3> :💻: &nbsp;About Me </h3>
 
 - 😄 Pronouns: He
-- 🔭 junior data analyst looking
+- 🔭 Junior data analyst looking
 - :heart: My favorite language: SQL
 - 🌱 I’m currently learning: Software engineering on #ALX
-- 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
+- 👯 I’m always looking to collaborate with: scientists from any field
+- 💬 Ask me about anything, I am happy to help
 - 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
 - 💜 Interests: Internet culture, web developing
 - ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
